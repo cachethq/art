@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Cachet-Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Cachet-Icon" sketch:type="MSArtboardGroup">
+            <g id="Icon" sketch:type="MSLayerGroup" transform="translate(7.000000, 11.000000)">
+                <path d="M203.656247,22.5075363 L207.908364,18.25542 C187.59758,6.63914745 164.074118,0 139,0 C62.2324198,0 0,62.2324198 0,139 C0,215.76758 62.2324198,278 139,278 C215.76758,278 278,215.76758 278,139 C278,121.94987 274.930156,105.616742 269.313035,90.5231813 L269.313035,90.5231813 L264.787268,95.0489482 C269.594876,108.809354 272.208333,123.599474 272.208333,139 C272.208333,212.568931 212.568931,272.208333 139,272.208333 C65.431069,272.208333 5.79166667,212.568931 5.79166667,139 C5.79166667,65.431069 65.431069,5.79166667 139,5.79166667 C162.4632,5.79166667 184.509555,11.8578965 203.656247,22.5075363 L203.656247,22.5075363 Z" id="Oval-1" stroke="#7ED321" stroke-width="12" sketch:type="MSShapeGroup"></path>
+                <path d="M105.697915,173.088048 L106.528258,172.257705 L271.176539,7.60942419 L277.5405,1.24546317 L290.268422,13.9733853 L283.904461,20.3373463 L119.25618,184.985627 L118.425837,185.81597 L105.697917,198.543894 L99.3339556,192.179933 L53.3919048,146.237882 L47.0279438,139.873921 L59.7558659,127.145999 L66.1198269,133.50996 L105.697915,173.088048 L105.697915,173.088048 Z" id="Line" fill="#7ED321" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
