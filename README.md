@@ -1,3 +1,5 @@
-# Cachet Assets
+# Cachet Art
 
-This repository will contain logos and other marketing assets used by Cachet.
+[![Cachet Logo](/logo-type/cachet-logo-light.png)](https://cachethq.io)
+
+This repository contains logos and other marketing assets used by [Cachet](https://cachethq.io).
